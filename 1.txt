@@ -1,3 +1,4 @@
 Hello, World!!!
 Привет, мир!!!
 Hello Tem4ik!
+Press F.
